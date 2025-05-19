@@ -22,7 +22,7 @@ Contralto dramática
 - "Parla più piano" - Nino Rota (de la banda sonora de "El Padrino")
 - *Música barroca*
 - "Pena Tirana" - Antonio Vivaldi
-- - "Addio" - G.F.Händel
+- "Addio" - G.F.Händel
 - *Música sacra*
 - "Erbarme dich, mein Gott" - Johann Sebastian Bach (de la Pasión según San Mateo, BWV 244)
 - *Otras piezas*

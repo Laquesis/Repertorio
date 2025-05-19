@@ -1,6 +1,6 @@
 # Repertorio
 
-## Interprete
+## Intérprete
 
 Carmen Ramírez García
 

@@ -23,7 +23,9 @@ Contralto dramática
 *Música de cine*
 
 - "Parla più piano" - Nino Rota (de la banda sonora de "El Padrino")
+
 *Música barroca*
+
 - "Pena Tirana" - Antonio Vivaldi
 - "Addio" - G.F.Händel
   
